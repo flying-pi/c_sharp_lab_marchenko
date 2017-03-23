@@ -1,0 +1,6 @@
+Y:\dev\C#\c_sharp_lab_marchenko\class_diagram_lab\class_diagram_lab\class_diagram_lab\bin\Debug\class_diagram_lab.exe.config
+Y:\dev\C#\c_sharp_lab_marchenko\class_diagram_lab\class_diagram_lab\class_diagram_lab\bin\Debug\class_diagram_lab.exe
+Y:\dev\C#\c_sharp_lab_marchenko\class_diagram_lab\class_diagram_lab\class_diagram_lab\bin\Debug\class_diagram_lab.pdb
+Y:\dev\C#\c_sharp_lab_marchenko\class_diagram_lab\class_diagram_lab\class_diagram_lab\obj\Debug\class_diagram_lab.csprojResolveAssemblyReference.cache
+Y:\dev\C#\c_sharp_lab_marchenko\class_diagram_lab\class_diagram_lab\class_diagram_lab\obj\Debug\class_diagram_lab.exe
+Y:\dev\C#\c_sharp_lab_marchenko\class_diagram_lab\class_diagram_lab\class_diagram_lab\obj\Debug\class_diagram_lab.pdb

@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="class_diagram_lab.Program" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="class_diagram_lab.LiteraryWork">
+    <Position X="3.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAoAAAAAEgAAAAIQBAAAEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>LiteraryWork.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="class_diagram_lab.Novel">
+    <Position X="5.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAAAAIAAAAiAAAAIAAAAAAAAA=</HashCode>
+      <FileName>Novel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="class_diagram_lab.Multilogy">
+    <Position X="8.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAECAAAAAQQAAIAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Multilogy.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="class_diagram_lab.Drama">
+    <Position X="5.5" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAAAAAAAAAgAAAAIAAAAAAAAA=</HashCode>
+      <FileName>Drama.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="class_diagram_lab.Container">
+    <Position X="12" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAABAAECACAAAQAAAAAAAAAAAAAAAACAAA=</HashCode>
+      <FileName>Container.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="class_diagram_lab.EGenre">
+    <Position X="0.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQAAAACAAABAAAAAAAAQAAAAAAACAAAAAAAA=</HashCode>
+      <FileName>Genre.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
